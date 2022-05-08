@@ -16,4 +16,5 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91364746/167312057-12921b20-2e8f-4565-bf6f-444ce8c512fd.gif)
 
-![week6exercise](https://user-images.githubusercontent.com/91364746/167312063-a2eba6f8-f485-482b-becb-f3c6bc2f09bf.gif)
+![week6exercise](https://user-images.githubusercontent.com/91364746/167312100-2ea4e4ed-13fb-43a9-b2db-963d56678f8f.gif)
+
