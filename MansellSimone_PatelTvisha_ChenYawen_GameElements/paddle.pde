@@ -1,6 +1,4 @@
-
- 
- class Paddle{
+class Paddle{
   int paddleTall=100;
   int paddleWide=20;
   float yPos;
