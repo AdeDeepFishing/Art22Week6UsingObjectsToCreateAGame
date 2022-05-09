@@ -13,7 +13,7 @@
  * 
  * */
  
- Ball ball;
+Ball ball;
 
 void setup() {
   size(500, 500);
